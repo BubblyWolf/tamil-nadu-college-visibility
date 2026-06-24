@@ -407,9 +407,11 @@ async function load(){
       <div class="cmeta">${c.category} &nbsp;·&nbsp; <span class="pill rank">NIRF rank ${c.nirf_rank!=null?('#'+c.nirf_rank):'n/a'}</span>
         &nbsp; score ${c.nirf_score!=null?c.nirf_score:'n/a'}</div>
       ${also}
-      <div style="font-size:13px;color:var(--ink-soft);margin:4px 0 16px">Each measure is compared with
-        other ${c.category} institutions — <b>strong</b> = top third, <b>average</b> = middle,
-        <b>weak</b> = bottom third.</div>
+      <div style="font-size:13px;color:var(--ink-soft);margin:4px 0 16px;line-height:1.6">These are raw
+        resource figures from the institution's own data submission — <b>not</b> the NIRF scoring formula
+        that decides the rank. Each is rated <b>only relative to other ${c.category} institutions in this
+        analysis</b>: strong = top third, average = middle, weak = bottom third. A highly ranked
+        institution can still read "weak" here if the others in its category are simply larger.</div>
       ${metricRows}
       <div class="verdict">${verdict}</div>
       ${yearNote}`;
