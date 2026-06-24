@@ -1,0 +1,18 @@
+{
+  "tn_total_colleges_current": 2829,
+  "tn_total_colleges_2012_13": 2446,
+  "ranked_institutions": 84,
+  "ranked_entries": 154,
+  "invisible_pct_current": 97.0,
+  "districts": 32,
+  "top2_city_share_pct": 51.2,
+  "top2_city_names": [
+    "Chennai",
+    "Coimbatore"
+  ],
+  "vintages": {
+    "rankings": "NIRF 2025",
+    "state_total": "AISHE 2021-22",
+    "district_detail": "AISHE 2012-13"
+  }
+}

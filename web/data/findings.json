@@ -1,0 +1,27 @@
+[
+  {
+    "id": "invisibility",
+    "headline": "97.0% of Tamil Nadu colleges are invisible in NIRF rankings",
+    "detail": "Of Tamil Nadu's 2,829 colleges (AISHE 2021-22), only 84 unique institutions appear in NIRF 2025 rankings. That leaves 2,745 colleges — 97.0% — without a public quality signal."
+  },
+  {
+    "id": "concentration",
+    "headline": "51.2% of ranked TN institutions cluster in Chennai and Coimbatore",
+    "detail": "Among 84 uniquely ranked Tamil Nadu institutions, 43 (51.2%) are located in Chennai and Coimbatore. Rankings visibility is heavily skewed toward these two cities."
+  },
+  {
+    "id": "gender_ratio",
+    "headline": "44.4% female enrolment across ranked TN institutions",
+    "detail": "Across 145 Tamil Nadu institutions in the NIRF 2025 scorecard, 506,666 of 1,140,877 students (44.4%) are female. This is notably higher than the national average, reflecting TN's strong women's college network."
+  },
+  {
+    "id": "placement_salary",
+    "headline": "Median placement salary among ranked TN institutions: Rs 600,000",
+    "detail": "Reported median placement salaries range from Rs 120,000 to Rs 2,400,000 across 145 institutions with placement data in the NIRF 2025 scorecard. The median sits at Rs 600,000, with wide variation by discipline and institution type."
+  },
+  {
+    "id": "top_district",
+    "headline": "Coimbatore leads all TN districts with 255 colleges",
+    "detail": "Coimbatore had 255 colleges as of AISHE 2012-13, the highest of any Tamil Nadu district. Despite this density, only 15 institutions appear in NIRF 2025 — an invisibility rate of 94.1%."
+  }
+]

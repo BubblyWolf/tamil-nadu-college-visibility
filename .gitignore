@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw source files are re-downloadable via the scripts in src/ (origins are
+# documented in SOURCES.md), so they are not committed. The cleaned data in
+# data/processed/ and the site data in web/data/ ARE committed.
+data/raw/

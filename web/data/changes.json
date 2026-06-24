@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "climbed": 36,
+    "fell": 83,
+    "entered": 20,
+    "dropped": 19,
+    "categories": 13
+  },
+  "movers": [
+    {
+      "name": "Periyar University",
+      "category": "University",
+      "rank_2024": 56,
+      "rank_2025": 94,
+      "delta": -38,
+      "direction": "down"
+    },
+    {
+      "name": "Sacred Heart College (Autonomous)",
+      "category": "College",
+      "rank_2024": 47,
+      "rank_2025": 80,
+      "delta": -33,
+      "direction": "down"
+    },
+    {
+      "name": "Bharathiar University",
+      "category": "Overall",
+      "rank_2024": 44,
+      "rank_2025": 76,
+      "delta": -32,
+      "direction": "down"
+    },
+    {
+      "name": "Government Arts College",
+      "category": "College",
+      "rank_2024": 96,
+      "rank_2025": 71,
+      "delta": 25,
+      "direction": "up"
+    },
+    {
+      "name": "Jamal Mohamed College, Tiruchirappalli",
+      "category": "College",
+      "rank_2024": 59,
+      "rank_2025": 84,
+      "delta": -25,
+      "direction": "down"
+    },
+    {
+      "name": "Madurai Kamaraj University",
+      "category": "University",
+      "rank_2024": 63,
+      "rank_2025": 85,
+      "delta": -22,
+      "direction": "down"
+    },
+    {
+      "name": "Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",
+      "category": "College",
+      "rank_2024": 42,
+      "rank_2025": 63,
+      "delta": -21,
+      "direction": "down"
+    },
+    {
+      "name": "Sri Ramakrishna College of Arts and Science",
+      "category": "College",
+      "rank_2024": 56,
+      "rank_2025": 76,
+      "delta": -20,
+      "direction": "down"
+    },
+    {
+      "name": "Bharathiar University",
+      "category": "University",
+      "rank_2024": 26,
+      "rank_2025": 46,
+      "delta": -20,
+      "direction": "down"
+    },
+    {
+      "name": "Anna University",
+      "category": "Management",
+      "rank_2024": 69,
+      "rank_2025": 88,
+      "delta": -19,
+      "direction": "down"
+    },
+    {
+      "name": "Madras School of Social Work",
+      "category": "College",
+      "rank_2024": 73,
+      "rank_2025": 55,
+      "delta": 18,
+      "direction": "up"
+    },
+    {
+      "name": "Chettinad Academy of Research and Education",
+      "category": "University",
+      "rank_2024": 79,
+      "rank_2025": 61,
+      "delta": 18,
+      "direction": "up"
+    },
+    {
+      "name": "Sri Krishna College of Engineering and Technology",
+      "category": "Engineering",
+      "rank_2024": 83,
+      "rank_2025": 100,
+      "delta": -17,
+      "direction": "down"
+    },
+    {
+      "name": "Central University of Tamil Nadu",
+      "category": "University",
+      "rank_2024": 99,
+      "rank_2025": 83,
+      "delta": 16,
+      "direction": "up"
+    },
+    {
+      "name": "College of Pharmacy, Madras Medical College",
+      "category": "Pharmacy",
+      "rank_2024": 78,
+      "rank_2025": 94,
+      "delta": -16,
+      "direction": "down"
+    },
+    {
+      "name": "Ethiraj College for Women",
+      "category": "College",
+      "rank_2024": 79,
+      "rank_2025": 64,
+      "delta": 15,
+      "direction": "up"
+    },
+    {
+      "name": "Annamalai University",
+      "category": "Pharmacy",
+      "rank_2024": 27,
+      "rank_2025": 42,
+      "delta": -15,
+      "direction": "down"
+    },
+    {
+      "name": "Arulmigu Kalasalingam College of Pharmacy",
+      "category": "Pharmacy",
+      "rank_2024": 82,
+      "rank_2025": 96,
+      "delta": -14,
+      "direction": "down"
+    },
+    {
+      "name": "Bishop Heber College",
+      "category": "College",
+      "rank_2024": 33,
+      "rank_2025": 46,
+      "delta": -13,
+      "direction": "down"
+    },
+    {
+      "name": "Sri Krishna Arts and Science College",
+      "category": "College",
+      "rank_2024": 37,
+      "rank_2025": 50,
+      "delta": -13,
+      "direction": "down"
+    }
+  ],
+  "entered": [
+    {
+      "name": "S.R.M. Institute of Science and Technology",
+      "category": "Agriculture",
+      "rank_2025": 33
+    },
+    {
+      "name": "Rajah Serfoji Government College, Thanjavur - 613 005.",
+      "category": "College",
+      "rank_2025": 79
+    },
+    {
+      "name": "Sri Sarada College for Women(Autonomous)",
+      "category": "College",
+      "rank_2025": 81
+    },
+    {
+      "name": "DG Vaishnav College",
+      "category": "College",
+      "rank_2025": 91
+    },
+    {
+      "name": "Fatima College",
+      "category": "College",
+      "rank_2025": 100
+    },
+    {
+      "name": "Sree Balaji Dental College & Hospital",
+      "category": "Dental",
+      "rank_2025": 27
+    },
+    {
+      "name": "S.R.M. Institute of Science and Technology",
+      "category": "Law",
+      "rank_2025": 25
+    },
+    {
+      "name": "S.R.M. Institute of Science and Technology",
+      "category": "Management",
+      "rank_2025": 56
+    },
+    {
+      "name": "Chettinad Academy of Research and Education",
+      "category": "Medical",
+      "rank_2025": 49
+    },
+    {
+      "name": "Tamil Nadu Agricultural University",
+      "category": "Overall",
+      "rank_2025": 88
+    },
+    {
+      "name": "Anna University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 2
+    },
+    {
+      "name": "Bharathiar University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 10
+    },
+    {
+      "name": "Alagappa University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 14
+    },
+    {
+      "name": "Bharathidasan University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 16
+    },
+    {
+      "name": "University of Madras",
+      "category": "StatePublicUniversity",
+      "rank_2025": 18
+    },
+    {
+      "name": "Madurai Kamaraj University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 31
+    },
+    {
+      "name": "Manonmaniam Sundaranar University, Tirunelveli",
+      "category": "StatePublicUniversity",
+      "rank_2025": 33
+    },
+    {
+      "name": "Annamalai University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 34
+    },
+    {
+      "name": "Periyar University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 40
+    },
+    {
+      "name": "Tamil Nadu Agricultural University",
+      "category": "StatePublicUniversity",
+      "rank_2025": 42
+    }
+  ],
+  "dropped": [
+    {
+      "name": "Tamil Nadu Dr.J.Jayalalithaa Fisheries University",
+      "category": "Agriculture",
+      "rank_2024": 32
+    },
+    {
+      "name": "Kalasalingam Academy of Research and Education",
+      "category": "Agriculture",
+      "rank_2024": 38
+    },
+    {
+      "name": "B. S. Abdur Rahman Crescent Institute of Science and Technology",
+      "category": "Architecture",
+      "rank_2024": 40
+    },
+    {
+      "name": "Kongunadu Arts and Science College",
+      "category": "College",
+      "rank_2024": 52
+    },
+    {
+      "name": "Women`s Christian College",
+      "category": "College",
+      "rank_2024": 67
+    },
+    {
+      "name": "National College",
+      "category": "College",
+      "rank_2024": 82
+    },
+    {
+      "name": "Guru Nanak College",
+      "category": "College",
+      "rank_2024": 89
+    },
+    {
+      "name": "Dr. S. N. S. Rajalakshmi College of Arts and Science",
+      "category": "College",
+      "rank_2024": 94
+    },
+    {
+      "name": "Virudhunagar Hindu Nadars Senthikumara Nadar College",
+      "category": "College",
+      "rank_2024": 95
+    },
+    {
+      "name": "Sadakathullah Appa College",
+      "category": "College",
+      "rank_2024": 98
+    },
+    {
+      "name": "Scott Christian College",
+      "category": "College",
+      "rank_2024": 100
+    },
+    {
+      "name": "Adhiparasakthi Dental College and Hospital, Kancheepuram",
+      "category": "Dental",
+      "rank_2024": 39
+    },
+    {
+      "name": "Sri Ramachandra Institute of Higher Education and Research",
+      "category": "Overall",
+      "rank_2024": 96
+    },
+    {
+      "name": "Periyar University",
+      "category": "Overall",
+      "rank_2024": 100
+    },
+    {
+      "name": "B. S. Abdur Rahman Crescent Institute of Science and Technology",
+      "category": "Pharmacy",
+      "rank_2024": 84
+    },
+    {
+      "name": "Bharathiar University",
+      "category": "Research",
+      "rank_2024": 41
+    },
+    {
+      "name": "Bharathidasan University",
+      "category": "Research",
+      "rank_2024": 48
+    },
+    {
+      "name": "Manonmaniam Sundaranar University, Tirunelveli",
+      "category": "University",
+      "rank_2024": 93
+    },
+    {
+      "name": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology",
+      "category": "University",
+      "rank_2024": 96
+    }
+  ]
+}

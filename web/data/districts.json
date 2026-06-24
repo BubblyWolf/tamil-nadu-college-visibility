@@ -1,0 +1,197 @@
+{
+  "_note": "ranked_current uses city-to-district name matching (approximate); city field in NIRF often equals district name",
+  "districts": [
+    {
+      "district": "Coimbatore",
+      "colleges_2012_13": 255,
+      "ranked_current": 15,
+      "invisible_pct": 94.1
+    },
+    {
+      "district": "Chennai",
+      "colleges_2012_13": 252,
+      "ranked_current": 28,
+      "invisible_pct": 88.9
+    },
+    {
+      "district": "Kancheepuram",
+      "colleges_2012_13": 130,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Tiruchirappalli",
+      "colleges_2012_13": 121,
+      "ranked_current": 8,
+      "invisible_pct": 93.4
+    },
+    {
+      "district": "Namakkal",
+      "colleges_2012_13": 120,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Salem",
+      "colleges_2012_13": 116,
+      "ranked_current": 3,
+      "invisible_pct": 97.4
+    },
+    {
+      "district": "Madurai",
+      "colleges_2012_13": 108,
+      "ranked_current": 6,
+      "invisible_pct": 94.4
+    },
+    {
+      "district": "Kanniyakumari",
+      "colleges_2012_13": 107,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Vellore",
+      "colleges_2012_13": 105,
+      "ranked_current": 2,
+      "invisible_pct": 98.1
+    },
+    {
+      "district": "Tirunelveli",
+      "colleges_2012_13": 98,
+      "ranked_current": 1,
+      "invisible_pct": 99.0
+    },
+    {
+      "district": "Erode",
+      "colleges_2012_13": 85,
+      "ranked_current": 1,
+      "invisible_pct": 98.8
+    },
+    {
+      "district": "Viluppuram",
+      "colleges_2012_13": 82,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Thanjavur",
+      "colleges_2012_13": 78,
+      "ranked_current": 3,
+      "invisible_pct": 96.2
+    },
+    {
+      "district": "Tiruvannamalai",
+      "colleges_2012_13": 75,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Thiruvallur",
+      "colleges_2012_13": 71,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Dindigul",
+      "colleges_2012_13": 66,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Dharmapuri",
+      "colleges_2012_13": 62,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Pudukkottai",
+      "colleges_2012_13": 56,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Cuddalore",
+      "colleges_2012_13": 53,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Thoothukkudi",
+      "colleges_2012_13": 49,
+      "ranked_current": 1,
+      "invisible_pct": 98.0
+    },
+    {
+      "district": "Virudhunagar",
+      "colleges_2012_13": 44,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Sivaganga",
+      "colleges_2012_13": 43,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Nagapattinam",
+      "colleges_2012_13": 37,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Theni",
+      "colleges_2012_13": 35,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Krishnagiri",
+      "colleges_2012_13": 31,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Perambalur",
+      "colleges_2012_13": 31,
+      "ranked_current": 1,
+      "invisible_pct": 96.8
+    },
+    {
+      "district": "Ramanathapuram",
+      "colleges_2012_13": 30,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Tiruppur",
+      "colleges_2012_13": 30,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Karur",
+      "colleges_2012_13": 28,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Ariyalur",
+      "colleges_2012_13": 21,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "Thiruvarur",
+      "colleges_2012_13": 17,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    },
+    {
+      "district": "The Nilgiris",
+      "colleges_2012_13": 10,
+      "ranked_current": 0,
+      "invisible_pct": 100.0
+    }
+  ]
+}
